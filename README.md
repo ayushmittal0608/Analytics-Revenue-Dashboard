@@ -397,6 +397,23 @@ Potential improvements include:
 * Role-based access control for multiple user types
 * More advanced caching for frequently requested analytics
 
+### Login Credentials
+#### Admin
+```
+Email: admin@example.com
+Password: admin123
+```
+#### Manager(North)
+```
+Email: north@example.com
+Password: north123
+```
+#### Manager(South)
+```
+Email: south@example.com
+Password: south123
+```
+
 # Future Improvements
 
 If this application were developed further, I would consider adding:
