@@ -110,13 +110,13 @@ npm --version
 psql --version
 ```
 
-1. Clone the repository
+#### Clone the repository
 ```
 git clone https://github.com/ayushmittal0608/Analytics-Revenue-Dashboard
 cd Analytics-Revenue-Dashboard
 ```
 
-2. Backend setup
+#### Backend setup
 Navigate to the backend directory:
 ```
 cd backend
@@ -140,7 +140,7 @@ npm start
 ```
 The API will be available at: http://localhost:3001
 
-3. Database Setup
+#### Database Setup
 Create a PostgreSQL database
 ```
 CREATE DATABASE <database_name>;
@@ -166,7 +166,7 @@ In order to view the tables and data, run the following command:
 npm run db:studio
 ```
 
-4. Frontend Setup
+#### Frontend Setup
 Open another terminal and navigate to the frontend:
 ```
 cd frontend
