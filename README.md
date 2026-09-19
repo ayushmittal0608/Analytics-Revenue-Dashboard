@@ -317,7 +317,6 @@ The application follows several basic security practices:
 
 * JWT authentication for protected APIs
 * Secrets stored in environment variables
-* Database credentials are not hardcoded
 * Authentication checks are performed on protected backend routes
 * Frontend does not directly access the database
 * Backend acts as the boundary between the UI and database
