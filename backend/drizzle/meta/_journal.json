@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789751165614,
+      "tag": "0000_fluffy_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789751588239,
+      "tag": "0001_blushing_morlun",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789753299620,
+      "tag": "0002_colorful_gateway",
+      "breakpoints": true
+    }
+  ]
+}
