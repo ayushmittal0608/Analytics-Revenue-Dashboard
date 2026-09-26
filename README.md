@@ -480,7 +480,7 @@ B.Tech — Electronics & Computer Engineering
 * **LinkedIn:** `https://www.linkedin.com/in/ayush-mittal-1b2059228/`
 
 ```
-Thanks for the opportunity. I appreciate your time and consideration. Wishing you all the best with your talent search.
+Thanks for the opportunity. I appreciate your time and consideration.
 ```
 
 
